@@ -1,5 +1,9 @@
-## Hi there 👋
-
+## Hola soy Marce 👋
+💻 Ingeniera de Software
+👓 Aprendiendo soluciones de IA.
+👪 Mamá Geek.
+🧩 Fan de las miniatuturas y los rompecabezas
+🌱 Aprendiendo sobre huertos
 <!--
 **marcelaquiroga/marcelaquiroga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
